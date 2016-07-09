@@ -1,0 +1,23 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "a mini service to gather information about files uploaded through npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gangezilla/file-metadata.git"
+  },
+  "author": "Scott Gangemi (Gangezilla)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gangezilla/file-metadata/issues"
+  },
+  "homepage": "https://github.com/Gangezilla/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.2"
+  }
+}
