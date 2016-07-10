@@ -30,6 +30,9 @@ build/Release
 node_modules
 jspm_packages
 
+#file uploads folder
+uploads
+
 # Optional npm cache directory
 .npm
 
